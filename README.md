@@ -1,5 +1,4 @@
 # codestart1
-<!doctype html>
 <html lang="kk">
 <head>
 <meta charset="utf-8">
